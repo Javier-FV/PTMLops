@@ -131,8 +131,7 @@ Se plantea un paso a paso del proceso de limpieza y calidad:
 
 ### Monitoring (monitoring)
 - **Descripción**: Captura métricas de rendimiento y deriva métricas de `drift` o desviación, para identificar cuándo el modelo comienza a perder precisión.
-- **Beneficios**:
-  - Permite almacenar históricos de rendimiento, ayudando a automatizar alertas de reentrenamiento.
+- Permite almacenar históricos de rendimiento, ayudando a automatizar alertas de reentrenamiento.
 
 ## Ventajas 
 
